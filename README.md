@@ -1,4 +1,4 @@
-# Full Stack Typescript Express React
+# Full Stack Typescript Express React(Next.js)
 
 NOTE: To update packages in package.json
 
@@ -17,3 +17,5 @@ Generating config files for:
 3. Pretty
 
 ## CLIENT
+
+Next.js
