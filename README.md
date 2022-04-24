@@ -17,10 +17,11 @@ Generating config files for:
     - jest init
 3. Pretty
 
-Testing: <https://bobbyhadz.com/blog/typescript-cannot-find-name-describe>
+Testing issue with describe, beforeEach etc not defined: <https://bobbyhadz.com/blog/typescript-cannot-find-name-describe>
 
 ## CLIENT
 
+<https://github.com/alan2207/bulletproof-react/tree/master/src>
 Next.js
 Best swr usage: <https://github.com/vercel/next.js/discussions/14601#discussioncomment-56153>
 SWR and Redux are not the same thing. swr is only for data requests in my opinion. Whereas Redux is used to manage all state changes
